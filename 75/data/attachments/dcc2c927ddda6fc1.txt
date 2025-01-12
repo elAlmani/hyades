@@ -1,0 +1,15 @@
+6ac29f1d-c811-423c-bf95-22bdcc0926fa
+{
+  de: 'German',
+  en: 'English',
+  es: 'Spanish',
+  fr: 'French',
+  hi: 'Hindi',
+  it: 'Italian',
+  ja: 'Japanese',
+  pl: 'Polish',
+  pt: 'Portuguese (Portugal)',
+  'pt-BR': 'Portuguese (Brazil)',
+  ru: 'Russian',
+  zh: 'Chinese'
+}
