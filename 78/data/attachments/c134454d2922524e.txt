@@ -1,0 +1,15 @@
+ed1a420f-9472-4de7-83de-287646164717
+{
+  de: 'German',
+  en: 'English',
+  es: 'Spanish',
+  fr: 'French',
+  hi: 'Hindi',
+  it: 'Italian',
+  ja: 'Japanese',
+  pl: 'Polish',
+  pt: 'Portuguese (Portugal)',
+  'pt-BR': 'Portuguese (Brazil)',
+  ru: 'Russian',
+  zh: 'Chinese'
+}
